@@ -3,9 +3,9 @@
 #### Majors: Computer Science, Mathematics, Data Scaince 
 
 # Languages:
-* C++
 * C
 * Pyhton
+* C++
 * Java
 * HTML/TypeScript
 
@@ -13,6 +13,7 @@
 * COSC 220 - C++ - Computer Science II
 * COSC 311 - Python - NumPy, Pandas, MatPlotLib - Introduction to Data Visualization and Interpretation
 * COSC 320 - C++ - Advanced Data Structures and Algorithm Analysis
+* COSC 350 - Bash/C - System Software
 * COSC 420 - C - High Preformance Computing
 * MATH 471 - Python - NumpPy - Numerical Methods
 * Math 472 - Python - NumPy, MatPlotLib - Numerical Linear Algebra
