@@ -1,6 +1,6 @@
 # Grant Dawson
 #### Student at Salisbury University 
-##### Majors: Computer Science, Mathematics, Data Scaince 
+##### Majors: Computer Science, Mathematics, Data Science 
 
 ## Current Course/Projects:
 * COSC 362 - Theory of Computation
