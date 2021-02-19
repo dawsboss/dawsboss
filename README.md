@@ -1,21 +1,21 @@
-## Grant Dawson
-### Student at Salisbury University 
-#### Majors: Computer Science, Mathematics, Data Scaince 
+# Grant Dawson
+#### Student at Salisbury University 
+##### Majors: Computer Science, Mathematics, Data Scaince 
 
-# Current Course/Projects:
+## Current Course/Projects:
 * COSC 362 - Theory of Computation
 * MATH 472 - Numerical Linear Algebra
 * COSC 350 - Systems Software
 * PROJ Stocks - Pandas, BeautifulSoup - Get stock information and display it
 
-# Languages:
-* C(MPI)
-* Pyhton(NumPy, MatPlotLib, Pandas)
+## Languages:
+* C (MPI)
+* Pyhton (NumPy, MatPlotLib, Pandas)
 * C++
 * Java
 * HTML/TypeScript
 
-# Courses taken and their repos:
+## Courses taken and their repos:
 * COSC 220 - C++ - Computer Science II
 * COSC 311 - Python - NumPy, Pandas, MatPlotLib - Introduction to Data Visualization and Interpretation
 * COSC 320 - C++ - Advanced Data Structures and Algorithm Analysis
@@ -25,7 +25,7 @@
 * Math 472 - Python - NumPy, MatPlotLib - Numerical Linear Algebra
 <!--* Stocks   - Pyhton - Pandas, BeautifulSoup - Get stock information and display it-->
 
-#Courses taken without repos:
+## Courses taken without repos:
 * Differencial Equations
 * Single and multi dimensional calculous (Calc I-III)
 * Linear Algerbra
