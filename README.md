@@ -3,9 +3,11 @@
 ##### Majors: Computer Science, Mathematics, Data Science 
 
 ## Current Course/Projects:
-* COSC 362 - Theory of Computation
-* MATH 472 - Numerical Linear Algebra
-* COSC 350 - Systems Software
+* COSC 386 - Database Design & Implementation 
+* COSC 425 - Software Engineering I
+* DSCI 490 - Research Methods in Data Science 
+* MATH 216 - Statistical Thinking
+* MATH 475 - Intorduction to Dynamics & Chaos
 * PROJ Stocks - Pandas, BeautifulSoup - Get stock information and display it
 
 ## Languages:
@@ -20,9 +22,10 @@
 * COSC 311 - Python - NumPy, Pandas, MatPlotLib - Introduction to Data Visualization and Interpretation
 * COSC 320 - C++ - Advanced Data Structures and Algorithm Analysis
 * COSC 350 - Bash/C - System Software
+* COSC 362 - Theory of Computation
 * COSC 420 - C - MPI - High Preformance Computing
 * MATH 471 - Python - NumpPy - Numerical Methods
-* Math 472 - Python - NumPy, MatPlotLib - Numerical Linear Algebra
+* MATH 472 - Python - NumPy, MatPlotLib - Numerical Linear Algebra
 <!--* Stocks   - Pyhton - Pandas, BeautifulSoup - Get stock information and display it-->
 
 ## Courses taken without repos:
