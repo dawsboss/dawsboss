@@ -1,11 +1,11 @@
 # Grant Dawson
 #### Student at Salisbury University 
-##### Majors: Computer Science, Mathematics, Data Science 
+##### Majors: Computer Science, Data Science, Mathematics
 
 ## Current Course/Projects:
-* COSC 386 - Database Design & Implementation 
-* COSC 425 - Software Engineering I
-* DSCI 490 - Research Methods in Data Science 
+* COSC 386 - PHP/HTML - Database Design & Implementation 
+* COSC 425 - React Native - Software Engineering I
+* DSCI 470 - Pyhton - Research Methods in Data Science 
 * MATH 216 - Statistical Thinking
 * MATH 475 - Intorduction to Dynamics & Chaos
 * PROJ Stocks - Pandas, BeautifulSoup - Get stock information and display it
@@ -13,9 +13,11 @@
 ## Languages:
 * C (MPI)
 * Pyhton (NumPy, MatPlotLib, Pandas)
+* PHP
 * C++
-* Java
 * HTML/TypeScript
+  * React Native
+* Java
 
 ## Courses taken and their repos:
 * COSC 220 - C++ - Computer Science II
@@ -29,11 +31,10 @@
 <!--* Stocks   - Pyhton - Pandas, BeautifulSoup - Get stock information and display it-->
 
 ## Courses taken without repos:
-* Differencial Equations
-* Single and multi dimensional calculous (Calc I-III)
 * Linear Algerbra
+* Single and multi dimensional calculous (Calc I-III)
 * Discrete Mathematics
-
+* Differencial Equations
 
 <!--
 **dawsboss/dawsboss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
