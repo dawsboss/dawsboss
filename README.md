@@ -1,16 +1,13 @@
 # Grant Dawson
-#### Student at Salisbury University 
-##### Majors: Computer Science, Data Science, Mathematics
+#### Employee at Acclaim Technical Service [https://acclaimtechnical.com/](ATS)
+##### Batchelor Degree: Computer science from Salisbury University
+##### Majored in: Computational Mathematics and Data Science
 
-## Current Course/Projects:
-* COSC 426 - React Naitve - Software Engineering II - No repo\Group one
-* MATH 447 - Cryptography
-* COSC 482 - Computer Graphics
-* DSCI 490 - Applied Data Science Project
-* COSC 450 - Operating Systems
+## Current Side-Projects:
 * PROJ Stocks - Pandas, Dash, Plotly
 
 ## Languages:
+* C# (.Net and Aglroithm Design)
 * Pyhton (NumPy, MatPlotLib, Pandas, Dash)
 * C (MPI)
 * PHP
@@ -35,6 +32,8 @@
 * MATH 472 - Python - NumPy, MatPlotLib - Numerical Linear Algebra
 
 
+
+
 <!--* Stocks   - Pyhton - Pandas, BeautifulSoup - Get stock information and display it-->
 
 ## Courses taken without repos:
@@ -45,6 +44,9 @@
 * Differencial Equations
 * Intorduction to Dynamics & Chaos
 * Operating Systems
+* MATH 447 - Cryptography
+* COSC 450 - Operating Systems
+* DSCI 490 - Applied Data Science Project
 
 
 <!--
